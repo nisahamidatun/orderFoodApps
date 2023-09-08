@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrderFoodAPPS</string>
+    <string name="current_location">Beranda</string>
+    <string name="text_search">Apakah kamu membututhkan sesuatu yang manis?</string>
+    <string name="tv_ricenoodle">Nasi dan Mie</string>
+    <string name="greetings">Selamat Datang</string>
+    <string name="username">Nisa !</string>
+    <string name="fastfood">Cepat Saji</string>
+    <string name="drink">Minuman</string>
+    <string name="rating_menu_1">4.8</string>
+    <string name="name_menu_1">Burger Ayam</string>
+    <string name="description_menu_1">200gr ayam + keju selada + tomat</string>
+    <string name="price_menu_1">Rp 22.000</string>
+    <string name="rating_menu_2">4.8</string>
+    <string name="name_menu_2">Burger Keju</string>
+    <string name="description_menu_2">200gr daging sapi + keju selada + tomat</string>
+    <string name="name_menu_3">Rogut Ayam</string>
+    <string name="name_menu_4">Risol Ayam</string>
+    <string name="menu_price_2">Rp 22.000</string>
+    <string name="nearby">Terdekat</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderFoodAPPS</string>
+    <string name="current_location">Home</string>
+    <string name="text_search">Maybe you need something sweet?</string>
+    <string name="tv_ricenoodle"><![CDATA[Rice & \nNoodle]]></string>
+    <string name="greetings">Welcome back</string>
+    <string name="username">Nisa !</string>
+    <string name="nearby">Nearby</string>
+    <string name="fastfood">Fast \nfood</string>
+    <string name="drink">Drink</string>
+    <string name="rating_menu_1">4.8</string>
+    <string name="name_menu_1">Chicken burger</string>
+    <string name="description_menu_1">200gr chicken + cheese Lettuce + tomato</string>
+    <string name="price_menu_1">$22.00</string>
+    <string name="rating_menu_2">4.8</string>
+    <string name="name_menu_2">Cheese burger</string>
+    <string name="description_menu_2">200gr beef + cheese Lettuce + tomato</string>
+    <string name="name_menu_3">Chicken Rougat</string>
+    <string name="name_menu_4">Chicken Risol</string>
+    <string name="menu_price_2">$22.00</string>
+</resources>
