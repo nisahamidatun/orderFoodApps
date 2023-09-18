@@ -236,7 +236,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="15dp"
                     android:text="@string/fastfood"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/iv_fastfood" />
 
